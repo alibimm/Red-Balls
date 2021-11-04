@@ -1,16 +1,5 @@
-# balls_game
+# Red Balls
+A small Flutter mobile game. The user plays against the CPU.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Rules
+Player and CPU make moves in turns. Each move they choose one ball or two adjacent balls to eliminate from 3x3 grid. The player to remove the last ball loses the game.
